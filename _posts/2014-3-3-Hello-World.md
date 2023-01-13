@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-what do I have to do??? ...
+what do I have to do??? .....
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
