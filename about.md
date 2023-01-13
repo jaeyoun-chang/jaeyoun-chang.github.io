@@ -6,7 +6,7 @@ permalink: /about/
 
 Professional @ LG global strategy
 
-### I have worked in
+### and have worked in
 
 LG - CSO Division (2022 - )
 LG - Home Entertainment Division (2002 - 2021)
