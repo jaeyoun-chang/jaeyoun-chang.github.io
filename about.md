@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-@ LG as professional of global strategy
+Professional @ LG global strategy
 
 ### More Information
 
