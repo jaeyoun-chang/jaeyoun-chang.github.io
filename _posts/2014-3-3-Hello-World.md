@@ -7,6 +7,8 @@ Demographic and professional characteristics of participants
 Programing languages preferred over time  
 Programing language preference by global region and generation
 
+({{ site.baseurl }})
+
 Stack Overflow is one of the most renowned question and answer websites for programmers, and is giving a clue on how the world of coding is changing from its survey results issued every year. I collected and analyzed the survey data from 2019 to 2022, and  found out some slight but significant changes over time.
 Overall demographic and professional characteristics of programmers
 At first, survey participants are not giving answers to all questions, and some questions have unidentified answers like ‘Something else’ that it seemed more reasonable not to make a conclusion in many cases.
