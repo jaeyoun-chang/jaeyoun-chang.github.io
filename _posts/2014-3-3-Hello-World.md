@@ -3,9 +3,9 @@ layout: post
 title: Trends of Multiple-Year Stack Overflow Survey
 ---
 
-Demographic and professional characteristics of participants  
-Programing languages preferred over time  
-Programing language preference by global region and generation
+> Demographic and professional characteristics of participants  
+> Programing languages preferred over time  
+> Programing language preference by global region and generation
 
 ({{ site.baseurl }})
 
